@@ -12,7 +12,7 @@ namespace BasicTraining
         {
             int sayi1;
 
-            Console.Write("Sayı gir :  ");
+            Console.Write("Sayı gir : ");
             sayi1 = Convert.ToInt32(Console.ReadLine());
 
             if (sayi1 < 0)

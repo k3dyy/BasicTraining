@@ -11,7 +11,7 @@ namespace Math
         static void Main(string[] args)
         {
 
-            Console.WriteLine("5 ile 3 ün dört işlemi aşağıdaki gibidir ; ");
+            Console.WriteLine("5 ile 3 ün dört işlemi aşağıdaki gibidir; ");
             Dortislem dortIslem = new Dortislem();
             dortIslem.Topla(5, 3);
             dortIslem.Cikar(5, 3);

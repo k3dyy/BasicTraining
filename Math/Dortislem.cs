@@ -11,7 +11,7 @@ namespace Math
         public void Topla(int sayi1, int sayi2)
         {
             int topla = sayi1 + sayi2;
-            Console.WriteLine("Toplayınca Sonuç = " + topla);
+            Console.WriteLine("Toplayınca Sonuç = "+ topla);
         }
         public void Cikar(int sayi1, int sayi2)
         {

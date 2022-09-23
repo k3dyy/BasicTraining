@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTraining", "BasicTrain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{3D7646C7-B342-4E32-A5DC-B2BEE5B1E0D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kareninuzunluklarınıhesaplama", "Kareninuzunluklarınıhesaplama\Kareninuzunluklarınıhesaplama.csproj", "{D43B684F-BC68-4FFC-8741-3053060652FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D7646C7-B342-4E32-A5DC-B2BEE5B1E0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D7646C7-B342-4E32-A5DC-B2BEE5B1E0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D7646C7-B342-4E32-A5DC-B2BEE5B1E0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43B684F-BC68-4FFC-8741-3053060652FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43B684F-BC68-4FFC-8741-3053060652FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43B684F-BC68-4FFC-8741-3053060652FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43B684F-BC68-4FFC-8741-3053060652FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
